@@ -1,0 +1,4 @@
+category: X11
+requires: fontconfig mkfontdir mkfontscale font-encodings
+sdesc: "Monospaced programming bitmap font"
+ldesc: "Monospaced programming bitmap font"
